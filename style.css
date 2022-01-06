@@ -1,9 +1,7 @@
 body {
     font-family: Quicksand;
     text-align: justify;
-    margin-right: 0;
     margin-left: 0;
-   margin-bottom: 0;
     margin-top: 100px;
 }
 
@@ -80,7 +78,7 @@ p {
 }
 
 #first-box {
-    background-color: teal;
+    background-color: lemonchiffon;
     border-radius: 5px;
     
 }
@@ -100,7 +98,7 @@ p {
 }
 
 #third-box {
-    background-color: royalblue;
+    background-color: lightseagreen;
     border-radius: 5px;
 }
 
@@ -130,6 +128,31 @@ footer {
     font-style: italic;
 }
 
-#contact-texts {
-    text-align: center;
+
+
+
+
+#social-media {
+    border-right: rebeccapurple solid 5px;
+    border-left: rebeccapurple solid 5px;;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 20px;
+}
+
+#messenger {
+    border-right: rebeccapurple solid 5px;
+    padding-right: 10px;
+    margin-right: 20px;
+}
+
+#mail {
+    border-right: rebeccapurple solid 5px;
+    margin-right: 20px;
+    padding-right: 10px;
+}
+
+#all-of-it {
+    margin-left: 250px;
+    margin-right: 50px;
 }
